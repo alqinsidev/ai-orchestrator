@@ -24,7 +24,7 @@ Question: berikan 20 list desa dengan jumlah penduduk paling banyak
 The application follows a modular architecture:
 
 -   **API:** Defines the API endpoints for user interaction.
--   **Graph:** Defines the LangGraph workflow, including the SQL agent and the final answer generation.
+-   **Graph:** Defines the LangGraph workflow.
 -   **LLM:** Contains the Gemini model integration.
 -   **State:** Manages the state of the chat conversation.
 -   **Tools:** Contains the SQL agent and the final answer agent.
