@@ -4,6 +4,12 @@ This project implements a chat orchestrator using LangGraph and streaming respon
 
 **Disclaimer:** This project is for demonstration purposes only. The SQL agent is a dummy and does not interact with a real database.
 
+```text
+Question: berikan 20 list desa dengan jumlah penduduk paling banyak
+```
+
+![til](example.gif)
+
 ## Features
 
 -   **LangGraph Integration:** Utilizes LangGraph for defining and managing the workflow of the chat application.
